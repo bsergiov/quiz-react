@@ -1,4 +1,3 @@
-import React, {Component} from 'react'
 import classes from './Select.module.css'
 
 const Select = props => {
